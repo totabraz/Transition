@@ -1,0 +1,14 @@
+.transitionCell +
+.transitionCell {
+    margin-top: 15px;
+}
+.shouldHighlight{ 
+    background-color: #e5e5e5;
+}
+.transitionCell {
+    display: flex;
+    width: 100%;
+    max-width: 200px;
+    justify-content: space-between;
+    flex-direction: row;
+}
